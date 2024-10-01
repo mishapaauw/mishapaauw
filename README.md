@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+### Bio
+
+🧬 Since September 2024, I work as a Data Scientist at the [Green Life Sciences](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/research/clusters/green-life-sciences/green-life-sciences.html) research cluster of the University of Amsterdam. I'm here to contribute data science expertise to any GLS scientist with data related questions, ranging from high-volume -omics data to experimental design.
+
+🥬🦠 Previously, I was also employed by the University of Amsterdam as a PhD candidate. In my PhD work, I studied molecular interactions between plants and a pathogenic bacterium, called *Xanthomonas campestris* pv. *campestris*.
+
+### Links
+
+🎓 You can find links to my published academic work on [my Google Scholar profile](https://scholar.google.com/citations?user=2FyrHzEAAAAJ&hl=nl).
+
 <!--
 **mishapaauw/mishapaauw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
